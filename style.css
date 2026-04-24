@@ -23,6 +23,16 @@ body {
     border: 1px solid #cfc3e8;
 }
 
+.form-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: rgba(255, 250, 245, 0.92);
+    border-radius: 35px;
+    box-shadow: 0 20px 35px rgba(96, 68, 128, 0.15);
+    overflow: hidden;
+    border: 1px solid #cfc3e8;
+}
+
 header {
     background: #e8dfd9;
     padding: 25px 35px;
