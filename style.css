@@ -166,7 +166,7 @@ footer {
     font-weight: 600;
     color: #5f4b8b;
     text-align: left;
-    max-width: 600px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -177,7 +177,7 @@ footer {
 .form-group textarea,
 .form-group select {
     width: 100%;
-    max-width: 600px;
+    max-width: 800px;
     padding: 12px;
     background: #fffefa;
     border: 1px solid #d0c0e0;
@@ -201,7 +201,7 @@ footer {
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
-    max-width: 600px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
