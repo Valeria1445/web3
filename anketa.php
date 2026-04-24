@@ -10,7 +10,7 @@
 <div class="container">
     <header>
         <h1>Анкета</h1>
-        <p class="subtitle">Заполните форму – данные сохранятся в базу данных</p>
+        
     </header>
 
     <?php if ($success_message): ?>
@@ -106,8 +106,9 @@
         </div>
     </form>
 
-    <div class="footer-links">
+    <div class="back-link">
         <a href="v.php">📊 Просмотр сохранённых анкет</a>
+        <a href="p.html"> </a>
     </div>
 </div>
 </body>
